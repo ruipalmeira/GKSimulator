@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: 6ca149a9a3c6ad94a99c4683b113004c
+timeCreated: 1445942943
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Lamp
+    100004: Player_base:Body
+    100006: Player_base:Eyebrow008
+    100008: Player_base:Eyelashes01
+    100010: Player_base:Low-poly
+    100012: Player_base:Mhair02
+    100014: Player_base:Shoes02
+    100016: Player_base:Short01
+    100018: Player_base:Tshirt02
+    100020: //RootNode
+    400000: Camera
+    400002: Lamp
+    400004: Player_base:Body
+    400006: Player_base:Eyebrow008
+    400008: Player_base:Eyelashes01
+    400010: Player_base:Low-poly
+    400012: Player_base:Mhair02
+    400014: Player_base:Shoes02
+    400016: Player_base:Short01
+    400018: Player_base:Tshirt02
+    400020: //RootNode
+    2300000: Player_base:Body
+    2300002: Player_base:Eyebrow008
+    2300004: Player_base:Eyelashes01
+    2300006: Player_base:Low-poly
+    2300008: Player_base:Mhair02
+    2300010: Player_base:Shoes02
+    2300012: Player_base:Short01
+    2300014: Player_base:Tshirt02
+    3300000: Player_base:Body
+    3300002: Player_base:Eyebrow008
+    3300004: Player_base:Eyelashes01
+    3300006: Player_base:Low-poly
+    3300008: Player_base:Mhair02
+    3300010: Player_base:Shoes02
+    3300012: Player_base:Short01
+    3300014: Player_base:Tshirt02
+    4300000: Player_base:Shoes02
+    4300002: Player_base:Short01
+    4300004: Player_base:Tshirt02
+    4300006: Player_base:Eyelashes01
+    4300008: Player_base:Eyebrow008
+    4300010: Player_base:Low-poly
+    4300012: Player_base:Mhair02
+    4300014: Player_base:Body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
