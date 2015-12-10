@@ -5,7 +5,7 @@ public class StrikeManager : MonoBehaviour
 {
 	public class strikeType
 	{
-		public int[] allStrikes;
+		public int[] allStrikes; //pode não ser necessária
 		public int[] easyStrikes;
 		public int[] mediumStrikes;
 		public int[] hardStrikes;
@@ -14,26 +14,31 @@ public class StrikeManager : MonoBehaviour
 		{
 			int i = 0;
 
-			int[] easyStrikes = new int[8];
-			int[] mediumStrikes = new int[4];
-			int[] hardStrikes = new int[4];
+
+			int[] easyStrikes = new int[4];
+			int[] mediumStrikes = new int[2];
+			int[] hardStrikes = new int[2];
+            int[] allStrikes = new int[10];
 
 			for (i = 0; i < easyStrikes.Length; i++)
 			{
 				easyStrikes[i] = i;
 			}
 
-			for (i = 10; i < mediumStrikes.Length; i++)
+			for (i = 6; i < mediumStrikes.Length; i++)
 			{
 				mediumStrikes[i] = i;
 			}
 
-			for(i = 13; i < hardStrikes.Length; i++)
+			for(i = 8; i < hardStrikes.Length; i++)
 			{
 				hardStrikes[i] = i;
 			}
 
-			int[] allStrikes = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15};
+			for(i=0; i < (easyStrikes.Length+mediumStrikes.Length+hardStrikes.Length); i++)
+            {
+                allStrikes[i] = i;
+            }
 		}
 
 		public void randomEasyStrikes(int[] easyStrikes)
